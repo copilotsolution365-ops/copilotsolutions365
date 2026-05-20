@@ -44,12 +44,7 @@ export default function Home() {
             Training
           </a>
 
-          <a
-            href="#demo"
-            className="hover:text-white transition"
-          >
-            Demo
-          </a>
+         
 
           <a
             href="#contact"
@@ -309,10 +304,10 @@ export default function Home() {
         <div className="flex flex-col gap-4 items-center">
 
           <a
-            href="mailto:copilotsolution365@gmail.com"
+            href="mailto:Founder@CopilotSolutions365.com"
             className="border border-gray-700 px-6 py-3 rounded-xl hover:bg-white hover:text-black transition duration-300"
           >
-            copilotsolution365@gmail.com
+            Founder@CopilotSolutions365.com
           </a>
 
           <a
