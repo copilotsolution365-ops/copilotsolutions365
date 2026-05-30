@@ -440,7 +440,7 @@ export default function Home() {
       {/* FOOTER */}
       <footer>
         <span className="footer-logo">CopilotSolutions365</span>
-        <span>Lead Consultant: Atanu Paul · Project Coordination: Kazi Aniketh Anum &amp; Team</span>
+        <span>Let's build a secured ecosystem for your business. </span>
         <span>© 2026 CopilotSolutions365. All rights reserved.</span>
       </footer>
     </>
